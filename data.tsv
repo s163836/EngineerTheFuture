@@ -1,1001 +1,1001 @@
-	ID	Sex	Disease
-0	1000	M	negative
-1	1001	K	negative
-2	1002	M	negative
-3	1003	K	negative
-4	1004	K	positive
-5	1005	K	negative
-6	1006	M	negative
-7	1007	K	negative
-8	1008	M	negative
-9	1009	K	negative
-10	1010	K	negative
-11	1011	M	negative
-12	1012	K	negative
-13	1013	K	negative
-14	1014	M	negative
-15	1015	M	negative
-16	1016	K	negative
-17	1017	M	negative
-18	1018	M	negative
-19	1019	M	negative
-20	1020	M	negative
-21	1021	K	negative
-22	1022	K	negative
-23	1023	M	negative
-24	1024	M	negative
-25	1025	M	negative
-26	1026	K	negative
-27	1027	K	negative
-28	1028	K	negative
-29	1029	K	negative
-30	1030	K	negative
-31	1031	M	negative
-32	1032	K	negative
-33	1033	M	negative
-34	1034	M	negative
-35	1035	K	negative
-36	1036	K	negative
-37	1037	M	negative
-38	1038	K	negative
-39	1039	K	negative
-40	1040	M	negative
-41	1041	M	negative
-42	1042	K	negative
-43	1043	K	negative
-44	1044	K	negative
-45	1045	M	negative
-46	1046	K	negative
-47	1047	M	negative
-48	1048	K	negative
-49	1049	M	negative
-50	1050	K	negative
-51	1051	K	negative
-52	1052	K	negative
-53	1053	M	negative
-54	1054	M	negative
-55	1055	K	negative
-56	1056	M	negative
-57	1057	M	negative
-58	1058	M	negative
-59	1059	K	negative
-60	1060	M	negative
-61	1061	M	negative
-62	1062	M	negative
-63	1063	K	negative
-64	1064	M	negative
-65	1065	K	negative
-66	1066	M	negative
-67	1067	K	positive
-68	1068	M	negative
-69	1069	K	negative
-70	1070	M	negative
-71	1071	M	positive
-72	1072	M	negative
-73	1073	K	negative
-74	1074	K	negative
-75	1075	K	negative
-76	1076	K	negative
-77	1077	K	negative
-78	1078	K	negative
-79	1079	K	negative
-80	1080	K	positive
-81	1081	K	negative
-82	1082	M	negative
-83	1083	M	negative
-84	1084	M	negative
-85	1085	M	positive
-86	1086	M	negative
-87	1087	K	negative
-88	1088	K	negative
-89	1089	K	negative
-90	1090	M	negative
-91	1091	M	negative
-92	1092	K	negative
-93	1093	M	negative
-94	1094	M	negative
-95	1095	K	negative
-96	1096	K	negative
-97	1097	K	negative
-98	1098	M	negative
-99	1099	M	negative
-100	1100	K	negative
-101	1101	K	negative
-102	1102	M	negative
-103	1103	K	negative
-104	1104	K	negative
-105	1105	K	negative
-106	1106	M	negative
-107	1107	K	negative
-108	1108	K	negative
-109	1109	K	negative
-110	1110	K	negative
-111	1111	M	negative
-112	1112	K	negative
-113	1113	M	negative
-114	1114	M	negative
-115	1115	K	negative
-116	1116	M	negative
-117	1117	M	negative
-118	1118	M	negative
-119	1119	M	negative
-120	1120	K	negative
-121	1121	K	negative
-122	1122	M	negative
-123	1123	M	negative
-124	1124	K	negative
-125	1125	K	positive
-126	1126	M	negative
-127	1127	K	positive
-128	1128	M	negative
-129	1129	M	negative
-130	1130	K	negative
-131	1131	K	negative
-132	1132	K	negative
-133	1133	K	negative
-134	1134	K	negative
-135	1135	K	negative
-136	1136	K	negative
-137	1137	K	negative
-138	1138	K	negative
-139	1139	K	negative
-140	1140	M	negative
-141	1141	M	negative
-142	1142	M	negative
-143	1143	M	negative
-144	1144	K	negative
-145	1145	M	positive
-146	1146	K	positive
-147	1147	K	negative
-148	1148	M	negative
-149	1149	K	positive
-150	1150	M	negative
-151	1151	M	negative
-152	1152	K	negative
-153	1153	M	negative
-154	1154	M	negative
-155	1155	K	negative
-156	1156	K	negative
-157	1157	K	negative
-158	1158	K	negative
-159	1159	K	negative
-160	1160	K	negative
-161	1161	K	negative
-162	1162	M	positive
-163	1163	K	negative
-164	1164	K	negative
-165	1165	M	positive
-166	1166	K	negative
-167	1167	M	positive
-168	1168	K	negative
-169	1169	M	negative
-170	1170	M	negative
-171	1171	K	negative
-172	1172	K	negative
-173	1173	M	negative
-174	1174	K	negative
-175	1175	K	negative
-176	1176	K	negative
-177	1177	K	negative
-178	1178	K	negative
-179	1179	M	negative
-180	1180	K	negative
-181	1181	M	negative
-182	1182	K	negative
-183	1183	M	negative
-184	1184	M	negative
-185	1185	M	negative
-186	1186	K	negative
-187	1187	M	negative
-188	1188	K	positive
-189	1189	K	positive
-190	1190	M	negative
-191	1191	K	negative
-192	1192	K	positive
-193	1193	M	negative
-194	1194	K	negative
-195	1195	K	negative
-196	1196	M	negative
-197	1197	M	negative
-198	1198	K	negative
-199	1199	K	negative
-200	1200	K	negative
-201	1201	K	negative
-202	1202	K	negative
-203	1203	K	negative
-204	1204	M	negative
-205	1205	M	negative
-206	1206	M	negative
-207	1207	K	negative
-208	1208	M	negative
-209	1209	M	negative
-210	1210	M	negative
-211	1211	K	negative
-212	1212	M	negative
-213	1213	M	negative
-214	1214	K	negative
-215	1215	K	negative
-216	1216	M	negative
-217	1217	K	negative
-218	1218	M	negative
-219	1219	K	negative
-220	1220	M	positive
-221	1221	M	negative
-222	1222	M	negative
-223	1223	M	negative
-224	1224	M	negative
-225	1225	K	negative
-226	1226	M	negative
-227	1227	K	negative
-228	1228	M	negative
-229	1229	K	negative
-230	1230	K	negative
-231	1231	K	negative
-232	1232	M	negative
-233	1233	M	negative
-234	1234	K	negative
-235	1235	K	negative
-236	1236	K	negative
-237	1237	K	negative
-238	1238	K	negative
-239	1239	M	negative
-240	1240	M	negative
-241	1241	M	negative
-242	1242	M	negative
-243	1243	M	positive
-244	1244	K	negative
-245	1245	M	negative
-246	1246	M	negative
-247	1247	M	positive
-248	1248	M	positive
-249	1249	K	negative
-250	1250	K	negative
-251	1251	K	negative
-252	1252	K	negative
-253	1253	M	negative
-254	1254	M	positive
-255	1255	K	negative
-256	1256	K	negative
-257	1257	M	negative
-258	1258	K	negative
-259	1259	M	negative
-260	1260	K	negative
-261	1261	M	negative
-262	1262	M	negative
-263	1263	K	negative
-264	1264	M	negative
-265	1265	K	positive
-266	1266	M	positive
-267	1267	M	negative
-268	1268	K	negative
-269	1269	K	positive
-270	1270	M	positive
-271	1271	M	positive
-272	1272	K	negative
-273	1273	M	positive
-274	1274	K	negative
-275	1275	M	positive
-276	1276	K	positive
-277	1277	M	negative
-278	1278	K	negative
-279	1279	K	negative
-280	1280	K	negative
-281	1281	M	negative
-282	1282	K	negative
-283	1283	K	negative
-284	1284	K	negative
-285	1285	M	negative
-286	1286	M	positive
-287	1287	K	negative
-288	1288	K	positive
-289	1289	M	negative
-290	1290	K	negative
-291	1291	K	negative
-292	1292	K	negative
-293	1293	K	negative
-294	1294	K	negative
-295	1295	M	negative
-296	1296	M	negative
-297	1297	K	negative
-298	1298	K	negative
-299	1299	K	negative
-300	1300	M	negative
-301	1301	M	negative
-302	1302	K	negative
-303	1303	M	negative
-304	1304	K	negative
-305	1305	M	negative
-306	1306	K	negative
-307	1307	K	negative
-308	1308	K	positive
-309	1309	M	negative
-310	1310	K	negative
-311	1311	M	negative
-312	1312	M	positive
-313	1313	M	positive
-314	1314	M	negative
-315	1315	K	negative
-316	1316	K	negative
-317	1317	M	negative
-318	1318	M	positive
-319	1319	K	negative
-320	1320	K	negative
-321	1321	M	negative
-322	1322	M	negative
-323	1323	M	negative
-324	1324	K	negative
-325	1325	M	negative
-326	1326	K	negative
-327	1327	M	negative
-328	1328	K	negative
-329	1329	K	negative
-330	1330	M	negative
-331	1331	K	negative
-332	1332	K	positive
-333	1333	M	negative
-334	1334	K	negative
-335	1335	K	negative
-336	1336	K	positive
-337	1337	M	negative
-338	1338	M	negative
-339	1339	M	negative
-340	1340	M	negative
-341	1341	M	negative
-342	1342	M	negative
-343	1343	M	positive
-344	1344	K	negative
-345	1345	M	positive
-346	1346	K	negative
-347	1347	K	negative
-348	1348	K	negative
-349	1349	M	negative
-350	1350	K	negative
-351	1351	M	negative
-352	1352	M	negative
-353	1353	K	negative
-354	1354	M	negative
-355	1355	M	negative
-356	1356	K	negative
-357	1357	M	negative
-358	1358	M	negative
-359	1359	K	positive
-360	1360	M	negative
-361	1361	M	negative
-362	1362	K	negative
-363	1363	M	negative
-364	1364	K	positive
-365	1365	M	negative
-366	1366	K	negative
-367	1367	K	negative
-368	1368	K	negative
-369	1369	K	negative
-370	1370	M	negative
-371	1371	K	negative
-372	1372	M	negative
-373	1373	M	negative
-374	1374	M	negative
-375	1375	K	positive
-376	1376	K	negative
-377	1377	K	negative
-378	1378	M	negative
-379	1379	K	negative
-380	1380	M	negative
-381	1381	K	negative
-382	1382	M	negative
-383	1383	M	negative
-384	1384	M	negative
-385	1385	K	negative
-386	1386	K	negative
-387	1387	M	negative
-388	1388	K	negative
-389	1389	K	negative
-390	1390	K	negative
-391	1391	M	negative
-392	1392	K	positive
-393	1393	M	positive
-394	1394	K	negative
-395	1395	M	negative
-396	1396	K	negative
-397	1397	K	negative
-398	1398	M	negative
-399	1399	K	negative
-400	1400	K	negative
-401	1401	K	positive
-402	1402	K	negative
-403	1403	M	negative
-404	1404	M	negative
-405	1405	M	negative
-406	1406	K	negative
-407	1407	K	positive
-408	1408	K	negative
-409	1409	M	negative
-410	1410	M	positive
-411	1411	M	negative
-412	1412	K	negative
-413	1413	M	negative
-414	1414	M	negative
-415	1415	K	negative
-416	1416	M	negative
-417	1417	M	negative
-418	1418	M	negative
-419	1419	M	positive
-420	1420	K	negative
-421	1421	M	negative
-422	1422	M	negative
-423	1423	K	negative
-424	1424	K	negative
-425	1425	M	negative
-426	1426	K	negative
-427	1427	M	negative
-428	1428	K	negative
-429	1429	M	negative
-430	1430	M	negative
-431	1431	M	negative
-432	1432	M	negative
-433	1433	K	negative
-434	1434	M	negative
-435	1435	K	negative
-436	1436	K	negative
-437	1437	M	negative
-438	1438	K	negative
-439	1439	K	negative
-440	1440	M	negative
-441	1441	M	negative
-442	1442	M	positive
-443	1443	K	negative
-444	1444	M	negative
-445	1445	K	negative
-446	1446	K	positive
-447	1447	M	negative
-448	1448	M	negative
-449	1449	K	negative
-450	1450	M	negative
-451	1451	K	negative
-452	1452	M	negative
-453	1453	K	negative
-454	1454	K	positive
-455	1455	M	negative
-456	1456	M	negative
-457	1457	K	negative
-458	1458	K	negative
-459	1459	K	positive
-460	1460	K	positive
-461	1461	K	negative
-462	1462	K	negative
-463	1463	M	negative
-464	1464	K	negative
-465	1465	M	negative
-466	1466	M	negative
-467	1467	M	negative
-468	1468	K	negative
-469	1469	M	positive
-470	1470	M	negative
-471	1471	M	negative
-472	1472	K	negative
-473	1473	K	negative
-474	1474	K	negative
-475	1475	M	negative
-476	1476	K	negative
-477	1477	K	negative
-478	1478	K	negative
-479	1479	M	positive
-480	1480	M	negative
-481	1481	K	negative
-482	1482	K	negative
-483	1483	M	negative
-484	1484	K	negative
-485	1485	M	negative
-486	1486	K	negative
-487	1487	M	negative
-488	1488	K	negative
-489	1489	K	negative
-490	1490	K	positive
-491	1491	K	positive
-492	1492	M	negative
-493	1493	K	negative
-494	1494	K	negative
-495	1495	K	negative
-496	1496	K	positive
-497	1497	K	negative
-498	1498	K	negative
-499	1499	M	positive
-500	1500	K	negative
-501	1501	M	negative
-502	1502	M	negative
-503	1503	M	negative
-504	1504	M	positive
-505	1505	M	negative
-506	1506	K	negative
-507	1507	K	negative
-508	1508	M	negative
-509	1509	K	negative
-510	1510	M	positive
-511	1511	K	negative
-512	1512	M	negative
-513	1513	M	negative
-514	1514	K	negative
-515	1515	K	negative
-516	1516	M	negative
-517	1517	K	negative
-518	1518	M	negative
-519	1519	K	negative
-520	1520	K	negative
-521	1521	M	negative
-522	1522	K	negative
-523	1523	M	negative
-524	1524	M	negative
-525	1525	M	negative
-526	1526	K	negative
-527	1527	K	negative
-528	1528	K	negative
-529	1529	K	negative
-530	1530	K	negative
-531	1531	K	negative
-532	1532	K	negative
-533	1533	K	negative
-534	1534	K	negative
-535	1535	K	negative
-536	1536	M	negative
-537	1537	K	negative
-538	1538	M	positive
-539	1539	M	negative
-540	1540	K	negative
-541	1541	M	negative
-542	1542	M	negative
-543	1543	M	negative
-544	1544	K	negative
-545	1545	K	negative
-546	1546	K	negative
-547	1547	M	positive
-548	1548	K	negative
-549	1549	M	negative
-550	1550	M	negative
-551	1551	M	negative
-552	1552	K	negative
-553	1553	M	negative
-554	1554	M	negative
-555	1555	M	negative
-556	1556	M	negative
-557	1557	M	negative
-558	1558	M	negative
-559	1559	K	positive
-560	1560	K	negative
-561	1561	M	negative
-562	1562	K	negative
-563	1563	M	negative
-564	1564	M	negative
-565	1565	M	negative
-566	1566	K	negative
-567	1567	M	negative
-568	1568	M	negative
-569	1569	M	negative
-570	1570	M	negative
-571	1571	K	negative
-572	1572	M	negative
-573	1573	M	negative
-574	1574	K	negative
-575	1575	M	negative
-576	1576	K	negative
-577	1577	M	negative
-578	1578	M	negative
-579	1579	M	negative
-580	1580	M	positive
-581	1581	K	negative
-582	1582	K	negative
-583	1583	M	negative
-584	1584	K	negative
-585	1585	K	negative
-586	1586	M	negative
-587	1587	K	positive
-588	1588	M	negative
-589	1589	M	negative
-590	1590	K	negative
-591	1591	M	negative
-592	1592	M	negative
-593	1593	M	negative
-594	1594	M	negative
-595	1595	M	negative
-596	1596	M	positive
-597	1597	K	negative
-598	1598	M	negative
-599	1599	M	negative
-600	1600	M	negative
-601	1601	M	negative
-602	1602	M	negative
-603	1603	M	negative
-604	1604	K	negative
-605	1605	M	positive
-606	1606	M	negative
-607	1607	M	negative
-608	1608	K	negative
-609	1609	M	negative
-610	1610	K	positive
-611	1611	M	negative
-612	1612	M	negative
-613	1613	M	negative
-614	1614	M	negative
-615	1615	M	negative
-616	1616	K	positive
-617	1617	K	negative
-618	1618	M	negative
-619	1619	M	negative
-620	1620	M	negative
-621	1621	M	negative
-622	1622	M	negative
-623	1623	K	positive
-624	1624	M	negative
-625	1625	M	negative
-626	1626	M	positive
-627	1627	K	negative
-628	1628	K	negative
-629	1629	M	negative
-630	1630	M	negative
-631	1631	K	negative
-632	1632	M	negative
-633	1633	M	positive
-634	1634	M	negative
-635	1635	M	negative
-636	1636	K	negative
-637	1637	K	negative
-638	1638	M	negative
-639	1639	K	negative
-640	1640	M	negative
-641	1641	M	negative
-642	1642	M	negative
-643	1643	M	negative
-644	1644	M	positive
-645	1645	M	negative
-646	1646	M	negative
-647	1647	K	negative
-648	1648	M	positive
-649	1649	K	negative
-650	1650	K	negative
-651	1651	K	negative
-652	1652	K	negative
-653	1653	M	negative
-654	1654	M	negative
-655	1655	M	negative
-656	1656	K	negative
-657	1657	M	negative
-658	1658	K	negative
-659	1659	K	negative
-660	1660	M	negative
-661	1661	K	negative
-662	1662	M	negative
-663	1663	K	negative
-664	1664	K	negative
-665	1665	M	positive
-666	1666	M	negative
-667	1667	K	negative
-668	1668	K	negative
-669	1669	M	negative
-670	1670	M	positive
-671	1671	K	negative
-672	1672	M	positive
-673	1673	M	negative
-674	1674	K	negative
-675	1675	K	negative
-676	1676	K	negative
-677	1677	M	positive
-678	1678	K	negative
-679	1679	K	negative
-680	1680	M	negative
-681	1681	M	negative
-682	1682	K	negative
-683	1683	K	negative
-684	1684	K	negative
-685	1685	M	negative
-686	1686	M	negative
-687	1687	K	negative
-688	1688	K	negative
-689	1689	M	negative
-690	1690	K	negative
-691	1691	M	negative
-692	1692	K	negative
-693	1693	K	negative
-694	1694	M	negative
-695	1695	K	negative
-696	1696	M	negative
-697	1697	M	negative
-698	1698	K	negative
-699	1699	M	negative
-700	1700	M	negative
-701	1701	K	positive
-702	1702	M	negative
-703	1703	M	negative
-704	1704	K	negative
-705	1705	K	negative
-706	1706	K	negative
-707	1707	K	negative
-708	1708	M	negative
-709	1709	K	negative
-710	1710	K	negative
-711	1711	K	negative
-712	1712	K	negative
-713	1713	M	positive
-714	1714	M	negative
-715	1715	M	negative
-716	1716	K	positive
-717	1717	M	negative
-718	1718	M	negative
-719	1719	K	negative
-720	1720	M	positive
-721	1721	M	positive
-722	1722	K	negative
-723	1723	M	negative
-724	1724	K	negative
-725	1725	K	negative
-726	1726	M	negative
-727	1727	K	negative
-728	1728	K	negative
-729	1729	M	negative
-730	1730	M	negative
-731	1731	K	negative
-732	1732	M	negative
-733	1733	M	negative
-734	1734	M	negative
-735	1735	K	negative
-736	1736	M	negative
-737	1737	M	positive
-738	1738	K	negative
-739	1739	M	negative
-740	1740	M	negative
-741	1741	M	negative
-742	1742	K	negative
-743	1743	K	negative
-744	1744	K	negative
-745	1745	K	negative
-746	1746	M	negative
-747	1747	M	negative
-748	1748	K	negative
-749	1749	K	negative
-750	1750	K	negative
-751	1751	K	negative
-752	1752	K	negative
-753	1753	K	negative
-754	1754	M	negative
-755	1755	K	negative
-756	1756	K	negative
-757	1757	M	negative
-758	1758	K	negative
-759	1759	M	negative
-760	1760	M	negative
-761	1761	M	positive
-762	1762	M	negative
-763	1763	M	negative
-764	1764	K	negative
-765	1765	M	negative
-766	1766	M	negative
-767	1767	K	negative
-768	1768	M	positive
-769	1769	M	negative
-770	1770	M	negative
-771	1771	K	negative
-772	1772	K	negative
-773	1773	M	negative
-774	1774	M	negative
-775	1775	K	positive
-776	1776	M	negative
-777	1777	K	positive
-778	1778	M	negative
-779	1779	K	negative
-780	1780	M	negative
-781	1781	M	negative
-782	1782	M	positive
-783	1783	M	positive
-784	1784	M	negative
-785	1785	K	negative
-786	1786	K	negative
-787	1787	M	negative
-788	1788	M	negative
-789	1789	K	negative
-790	1790	K	negative
-791	1791	M	positive
-792	1792	K	negative
-793	1793	M	negative
-794	1794	K	positive
-795	1795	K	negative
-796	1796	M	negative
-797	1797	K	negative
-798	1798	K	negative
-799	1799	M	negative
-800	1800	K	negative
-801	1801	K	negative
-802	1802	K	negative
-803	1803	M	negative
-804	1804	K	negative
-805	1805	K	negative
-806	1806	M	negative
-807	1807	M	negative
-808	1808	M	negative
-809	1809	M	negative
-810	1810	K	positive
-811	1811	M	positive
-812	1812	M	positive
-813	1813	M	negative
-814	1814	M	negative
-815	1815	K	negative
-816	1816	M	positive
-817	1817	M	negative
-818	1818	M	negative
-819	1819	M	negative
-820	1820	K	negative
-821	1821	K	negative
-822	1822	K	negative
-823	1823	K	negative
-824	1824	K	negative
-825	1825	M	negative
-826	1826	K	negative
-827	1827	K	negative
-828	1828	M	negative
-829	1829	M	negative
-830	1830	K	negative
-831	1831	K	negative
-832	1832	K	negative
-833	1833	K	negative
-834	1834	M	negative
-835	1835	K	negative
-836	1836	M	negative
-837	1837	M	negative
-838	1838	M	negative
-839	1839	M	negative
-840	1840	M	negative
-841	1841	M	positive
-842	1842	K	negative
-843	1843	K	negative
-844	1844	M	negative
-845	1845	M	negative
-846	1846	M	negative
-847	1847	M	negative
-848	1848	M	negative
-849	1849	M	negative
-850	1850	M	negative
-851	1851	M	negative
-852	1852	K	negative
-853	1853	K	negative
-854	1854	M	negative
-855	1855	K	negative
-856	1856	K	negative
-857	1857	K	negative
-858	1858	M	negative
-859	1859	K	negative
-860	1860	K	negative
-861	1861	M	negative
-862	1862	M	negative
-863	1863	M	negative
-864	1864	K	negative
-865	1865	K	negative
-866	1866	K	negative
-867	1867	M	negative
-868	1868	M	negative
-869	1869	K	negative
-870	1870	K	negative
-871	1871	M	negative
-872	1872	K	negative
-873	1873	M	negative
-874	1874	K	positive
-875	1875	M	negative
-876	1876	K	negative
-877	1877	M	negative
-878	1878	M	negative
-879	1879	M	negative
-880	1880	K	negative
-881	1881	M	positive
-882	1882	M	negative
-883	1883	M	negative
-884	1884	M	negative
-885	1885	M	positive
-886	1886	K	negative
-887	1887	K	negative
-888	1888	K	negative
-889	1889	M	negative
-890	1890	K	positive
-891	1891	M	negative
-892	1892	K	negative
-893	1893	M	negative
-894	1894	K	negative
-895	1895	K	negative
-896	1896	M	negative
-897	1897	K	negative
-898	1898	M	negative
-899	1899	M	negative
-900	1900	K	negative
-901	1901	K	negative
-902	1902	M	positive
-903	1903	K	positive
-904	1904	M	negative
-905	1905	K	negative
-906	1906	M	negative
-907	1907	K	positive
-908	1908	M	negative
-909	1909	K	negative
-910	1910	M	negative
-911	1911	K	negative
-912	1912	K	negative
-913	1913	K	negative
-914	1914	K	negative
-915	1915	K	negative
-916	1916	K	negative
-917	1917	K	negative
-918	1918	M	negative
-919	1919	M	negative
-920	1920	M	negative
-921	1921	M	negative
-922	1922	K	positive
-923	1923	K	negative
-924	1924	K	negative
-925	1925	K	negative
-926	1926	K	negative
-927	1927	M	negative
-928	1928	M	negative
-929	1929	M	negative
-930	1930	M	negative
-931	1931	K	negative
-932	1932	M	negative
-933	1933	M	negative
-934	1934	K	negative
-935	1935	M	negative
-936	1936	K	negative
-937	1937	M	negative
-938	1938	K	negative
-939	1939	M	negative
-940	1940	K	negative
-941	1941	K	negative
-942	1942	K	negative
-943	1943	M	negative
-944	1944	K	negative
-945	1945	K	negative
-946	1946	K	negative
-947	1947	M	negative
-948	1948	M	positive
-949	1949	K	negative
-950	1950	M	negative
-951	1951	K	negative
-952	1952	M	negative
-953	1953	K	negative
-954	1954	M	negative
-955	1955	K	negative
-956	1956	M	negative
-957	1957	M	negative
-958	1958	K	negative
-959	1959	M	negative
-960	1960	M	negative
-961	1961	M	negative
-962	1962	M	negative
-963	1963	K	negative
-964	1964	K	negative
-965	1965	M	negative
-966	1966	K	negative
-967	1967	M	negative
-968	1968	M	negative
-969	1969	M	negative
-970	1970	M	negative
-971	1971	M	negative
-972	1972	K	negative
-973	1973	K	negative
-974	1974	K	negative
-975	1975	K	negative
-976	1976	M	negative
-977	1977	M	negative
-978	1978	K	positive
-979	1979	K	negative
-980	1980	K	negative
-981	1981	M	negative
-982	1982	K	negative
-983	1983	K	negative
-984	1984	K	negative
-985	1985	K	negative
-986	1986	M	negative
-987	1987	K	negative
-988	1988	M	negative
-989	1989	K	negative
-990	1990	M	negative
-991	1991	M	negative
-992	1992	K	negative
-993	1993	K	negative
-994	1994	M	negative
-995	1995	M	positive
-996	1996	M	negative
-997	1997	M	negative
-998	1998	K	negative
-999	1999	K	negative
+	ID	Age	Sex	Disease
+0	1000	56	M	negative
+1	1001	62	M	negative
+2	1002	11	K	negative
+3	1003	66	K	negative
+4	1004	38	K	positive
+5	1005	33	M	negative
+6	1006	51	M	negative
+7	1007	70	M	negative
+8	1008	53	M	negative
+9	1009	22	M	negative
+10	1010	58	M	negative
+11	1011	24	K	negative
+12	1012	25	M	negative
+13	1013	66	M	negative
+14	1014	58	M	negative
+15	1015	48	M	negative
+16	1016	30	M	negative
+17	1017	19	K	negative
+18	1018	14	K	negative
+19	1019	47	K	negative
+20	1020	57	M	negative
+21	1021	26	M	negative
+22	1022	56	K	negative
+23	1023	24	K	negative
+24	1024	59	K	negative
+25	1025	62	M	negative
+26	1026	26	K	positive
+27	1027	60	K	negative
+28	1028	22	M	negative
+29	1029	29	M	negative
+30	1030	24	M	negative
+31	1031	67	M	negative
+32	1032	51	M	negative
+33	1033	17	M	negative
+34	1034	52	K	negative
+35	1035	68	M	negative
+36	1036	16	K	negative
+37	1037	48	M	negative
+38	1038	11	M	negative
+39	1039	61	M	negative
+40	1040	40	K	negative
+41	1041	68	K	negative
+42	1042	53	K	negative
+43	1043	61	M	positive
+44	1044	10	K	negative
+45	1045	60	M	negative
+46	1046	49	M	negative
+47	1047	61	M	negative
+48	1048	46	M	negative
+49	1049	13	K	negative
+50	1050	22	M	negative
+51	1051	57	K	negative
+52	1052	56	M	positive
+53	1053	19	M	negative
+54	1054	62	K	negative
+55	1055	46	M	negative
+56	1056	18	K	negative
+57	1057	50	M	negative
+58	1058	56	K	negative
+59	1059	58	M	positive
+60	1060	50	M	negative
+61	1061	69	K	negative
+62	1062	32	M	negative
+63	1063	19	M	negative
+64	1064	60	M	negative
+65	1065	16	K	negative
+66	1066	42	K	positive
+67	1067	34	M	negative
+68	1068	34	K	negative
+69	1069	32	M	negative
+70	1070	25	M	negative
+71	1071	63	M	negative
+72	1072	51	K	negative
+73	1073	28	K	negative
+74	1074	69	M	negative
+75	1075	28	M	negative
+76	1076	51	K	negative
+77	1077	11	K	negative
+78	1078	21	K	negative
+79	1079	59	K	negative
+80	1080	15	M	negative
+81	1081	11	K	negative
+82	1082	20	K	negative
+83	1083	35	K	negative
+84	1084	43	M	negative
+85	1085	12	K	negative
+86	1086	31	M	negative
+87	1087	26	M	negative
+88	1088	55	M	negative
+89	1089	56	M	negative
+90	1090	56	M	positive
+91	1091	59	M	positive
+92	1092	62	M	negative
+93	1093	35	K	positive
+94	1094	44	M	negative
+95	1095	30	M	positive
+96	1096	14	K	negative
+97	1097	63	K	negative
+98	1098	50	M	negative
+99	1099	41	M	negative
+100	1100	69	M	negative
+101	1101	59	M	negative
+102	1102	64	K	negative
+103	1103	70	K	negative
+104	1104	44	K	negative
+105	1105	11	K	positive
+106	1106	12	M	negative
+107	1107	57	K	negative
+108	1108	19	K	negative
+109	1109	27	K	negative
+110	1110	55	M	negative
+111	1111	28	K	negative
+112	1112	64	K	negative
+113	1113	61	K	negative
+114	1114	51	M	negative
+115	1115	12	M	negative
+116	1116	30	M	negative
+117	1117	15	K	negative
+118	1118	21	K	negative
+119	1119	23	M	negative
+120	1120	56	K	negative
+121	1121	55	M	negative
+122	1122	68	K	positive
+123	1123	63	K	negative
+124	1124	50	K	negative
+125	1125	24	M	negative
+126	1126	39	M	negative
+127	1127	53	M	negative
+128	1128	34	M	negative
+129	1129	53	K	negative
+130	1130	31	K	negative
+131	1131	14	K	negative
+132	1132	43	M	negative
+133	1133	65	K	negative
+134	1134	14	K	negative
+135	1135	30	K	negative
+136	1136	45	K	negative
+137	1137	59	M	positive
+138	1138	33	K	negative
+139	1139	56	K	negative
+140	1140	51	K	negative
+141	1141	48	K	negative
+142	1142	11	K	negative
+143	1143	48	K	negative
+144	1144	38	M	negative
+145	1145	41	M	negative
+146	1146	23	M	negative
+147	1147	45	K	negative
+148	1148	65	M	negative
+149	1149	41	M	negative
+150	1150	57	M	negative
+151	1151	21	K	negative
+152	1152	39	K	negative
+153	1153	34	M	negative
+154	1154	54	K	negative
+155	1155	50	K	negative
+156	1156	19	M	negative
+157	1157	12	K	negative
+158	1158	49	K	negative
+159	1159	13	K	negative
+160	1160	11	K	negative
+161	1161	64	K	negative
+162	1162	66	M	negative
+163	1163	27	M	positive
+164	1164	56	M	negative
+165	1165	36	M	negative
+166	1166	24	K	negative
+167	1167	58	K	negative
+168	1168	28	M	negative
+169	1169	50	M	negative
+170	1170	49	M	negative
+171	1171	14	M	negative
+172	1172	29	M	positive
+173	1173	52	M	negative
+174	1174	66	M	negative
+175	1175	34	M	positive
+176	1176	39	M	negative
+177	1177	19	M	negative
+178	1178	33	K	negative
+179	1179	70	K	negative
+180	1180	61	K	negative
+181	1181	67	K	negative
+182	1182	19	K	negative
+183	1183	25	K	negative
+184	1184	35	K	negative
+185	1185	56	M	negative
+186	1186	32	M	negative
+187	1187	63	K	negative
+188	1188	65	K	negative
+189	1189	36	M	negative
+190	1190	26	M	negative
+191	1191	54	M	negative
+192	1192	48	K	negative
+193	1193	16	M	negative
+194	1194	54	K	negative
+195	1195	59	K	negative
+196	1196	16	M	negative
+197	1197	55	K	negative
+198	1198	12	K	negative
+199	1199	59	M	negative
+200	1200	44	M	negative
+201	1201	43	K	negative
+202	1202	12	K	negative
+203	1203	66	K	negative
+204	1204	51	K	negative
+205	1205	21	K	positive
+206	1206	34	M	negative
+207	1207	16	M	negative
+208	1208	53	M	negative
+209	1209	46	K	negative
+210	1210	49	K	negative
+211	1211	36	K	negative
+212	1212	46	K	negative
+213	1213	18	M	negative
+214	1214	61	K	negative
+215	1215	69	M	negative
+216	1216	67	M	negative
+217	1217	25	K	negative
+218	1218	26	M	negative
+219	1219	14	K	negative
+220	1220	20	M	negative
+221	1221	47	K	negative
+222	1222	48	M	negative
+223	1223	59	M	positive
+224	1224	43	M	negative
+225	1225	57	M	negative
+226	1226	48	M	negative
+227	1227	25	K	negative
+228	1228	18	M	negative
+229	1229	32	M	negative
+230	1230	19	K	negative
+231	1231	40	K	positive
+232	1232	35	K	negative
+233	1233	35	K	negative
+234	1234	16	M	negative
+235	1235	41	K	positive
+236	1236	23	K	negative
+237	1237	13	M	positive
+238	1238	50	K	negative
+239	1239	44	K	negative
+240	1240	48	K	negative
+241	1241	48	K	negative
+242	1242	66	K	negative
+243	1243	67	M	negative
+244	1244	48	M	negative
+245	1245	16	K	negative
+246	1246	67	M	negative
+247	1247	49	K	negative
+248	1248	49	K	negative
+249	1249	50	M	negative
+250	1250	14	K	negative
+251	1251	10	M	positive
+252	1252	62	M	negative
+253	1253	13	K	negative
+254	1254	24	M	positive
+255	1255	67	K	negative
+256	1256	47	M	negative
+257	1257	60	K	negative
+258	1258	36	M	negative
+259	1259	65	M	positive
+260	1260	67	K	negative
+261	1261	56	K	negative
+262	1262	65	K	negative
+263	1263	27	K	negative
+264	1264	51	M	negative
+265	1265	36	M	negative
+266	1266	15	K	negative
+267	1267	24	K	negative
+268	1268	60	M	negative
+269	1269	45	M	negative
+270	1270	30	M	negative
+271	1271	63	M	negative
+272	1272	17	M	negative
+273	1273	34	K	negative
+274	1274	38	M	negative
+275	1275	40	K	negative
+276	1276	32	K	negative
+277	1277	17	M	negative
+278	1278	49	K	negative
+279	1279	45	K	negative
+280	1280	35	K	negative
+281	1281	25	M	negative
+282	1282	50	K	negative
+283	1283	29	K	negative
+284	1284	52	M	negative
+285	1285	30	M	negative
+286	1286	55	K	negative
+287	1287	66	K	negative
+288	1288	10	M	positive
+289	1289	22	K	negative
+290	1290	34	M	negative
+291	1291	66	K	negative
+292	1292	59	M	positive
+293	1293	14	K	negative
+294	1294	54	M	negative
+295	1295	62	K	negative
+296	1296	29	M	negative
+297	1297	64	M	negative
+298	1298	42	K	negative
+299	1299	38	K	negative
+300	1300	32	M	negative
+301	1301	54	M	negative
+302	1302	29	K	negative
+303	1303	44	M	negative
+304	1304	52	K	negative
+305	1305	64	M	negative
+306	1306	40	K	positive
+307	1307	31	M	negative
+308	1308	12	M	negative
+309	1309	48	K	negative
+310	1310	64	M	negative
+311	1311	54	M	negative
+312	1312	25	K	negative
+313	1313	43	K	negative
+314	1314	58	M	negative
+315	1315	45	M	negative
+316	1316	23	K	negative
+317	1317	19	M	negative
+318	1318	16	M	negative
+319	1319	53	M	negative
+320	1320	39	K	negative
+321	1321	35	K	negative
+322	1322	18	M	negative
+323	1323	70	K	negative
+324	1324	12	K	negative
+325	1325	70	M	negative
+326	1326	11	M	negative
+327	1327	44	K	negative
+328	1328	15	K	negative
+329	1329	52	K	negative
+330	1330	38	M	negative
+331	1331	16	K	negative
+332	1332	46	K	negative
+333	1333	35	M	negative
+334	1334	50	M	negative
+335	1335	19	M	negative
+336	1336	63	M	negative
+337	1337	64	K	negative
+338	1338	19	M	negative
+339	1339	57	K	negative
+340	1340	13	K	negative
+341	1341	20	M	negative
+342	1342	18	K	negative
+343	1343	14	K	negative
+344	1344	34	K	negative
+345	1345	65	M	negative
+346	1346	56	M	negative
+347	1347	57	K	negative
+348	1348	24	M	negative
+349	1349	27	M	negative
+350	1350	18	K	negative
+351	1351	42	M	negative
+352	1352	30	M	negative
+353	1353	70	K	negative
+354	1354	10	M	negative
+355	1355	48	K	negative
+356	1356	51	K	negative
+357	1357	25	K	negative
+358	1358	32	M	negative
+359	1359	27	M	negative
+360	1360	23	K	negative
+361	1361	43	M	negative
+362	1362	19	M	negative
+363	1363	14	K	negative
+364	1364	44	K	positive
+365	1365	68	M	positive
+366	1366	56	M	negative
+367	1367	48	M	negative
+368	1368	70	K	negative
+369	1369	31	K	negative
+370	1370	70	K	negative
+371	1371	50	K	negative
+372	1372	64	K	positive
+373	1373	11	M	negative
+374	1374	57	M	negative
+375	1375	58	M	negative
+376	1376	25	M	negative
+377	1377	56	M	negative
+378	1378	39	K	negative
+379	1379	26	M	negative
+380	1380	48	M	negative
+381	1381	61	K	negative
+382	1382	64	M	negative
+383	1383	14	M	negative
+384	1384	30	K	negative
+385	1385	38	M	negative
+386	1386	48	M	positive
+387	1387	67	K	negative
+388	1388	62	K	negative
+389	1389	43	M	negative
+390	1390	39	M	negative
+391	1391	65	K	negative
+392	1392	41	K	negative
+393	1393	49	M	negative
+394	1394	10	K	negative
+395	1395	27	M	negative
+396	1396	41	K	negative
+397	1397	56	K	negative
+398	1398	19	M	negative
+399	1399	13	M	negative
+400	1400	31	K	negative
+401	1401	66	K	negative
+402	1402	13	M	negative
+403	1403	27	M	negative
+404	1404	43	M	negative
+405	1405	29	M	negative
+406	1406	23	M	negative
+407	1407	27	M	positive
+408	1408	54	M	negative
+409	1409	18	K	negative
+410	1410	25	K	negative
+411	1411	36	M	positive
+412	1412	15	M	negative
+413	1413	52	K	negative
+414	1414	37	K	negative
+415	1415	61	K	negative
+416	1416	26	K	negative
+417	1417	69	K	negative
+418	1418	18	K	negative
+419	1419	34	M	negative
+420	1420	57	K	negative
+421	1421	45	K	positive
+422	1422	11	K	negative
+423	1423	53	M	negative
+424	1424	53	M	negative
+425	1425	30	M	negative
+426	1426	49	M	negative
+427	1427	46	M	negative
+428	1428	24	M	negative
+429	1429	69	M	negative
+430	1430	26	K	negative
+431	1431	10	K	negative
+432	1432	16	K	negative
+433	1433	69	K	negative
+434	1434	38	K	negative
+435	1435	62	K	positive
+436	1436	48	K	negative
+437	1437	47	K	negative
+438	1438	56	K	negative
+439	1439	32	K	negative
+440	1440	19	M	negative
+441	1441	60	M	negative
+442	1442	35	M	negative
+443	1443	51	M	negative
+444	1444	35	K	negative
+445	1445	19	K	negative
+446	1446	55	K	negative
+447	1447	22	M	negative
+448	1448	24	K	negative
+449	1449	38	M	negative
+450	1450	50	M	negative
+451	1451	62	M	negative
+452	1452	23	K	negative
+453	1453	54	K	negative
+454	1454	22	K	negative
+455	1455	42	M	negative
+456	1456	12	M	negative
+457	1457	39	K	negative
+458	1458	22	K	negative
+459	1459	68	M	negative
+460	1460	22	K	negative
+461	1461	32	M	negative
+462	1462	37	K	negative
+463	1463	13	K	negative
+464	1464	63	K	negative
+465	1465	29	K	negative
+466	1466	34	K	negative
+467	1467	54	K	negative
+468	1468	14	K	negative
+469	1469	56	M	negative
+470	1470	67	K	negative
+471	1471	40	K	negative
+472	1472	48	K	negative
+473	1473	32	M	negative
+474	1474	70	K	negative
+475	1475	47	M	negative
+476	1476	61	K	negative
+477	1477	29	K	negative
+478	1478	62	K	negative
+479	1479	55	M	negative
+480	1480	20	M	positive
+481	1481	38	M	negative
+482	1482	66	M	positive
+483	1483	63	M	negative
+484	1484	46	M	positive
+485	1485	24	K	negative
+486	1486	69	M	negative
+487	1487	31	M	negative
+488	1488	23	K	negative
+489	1489	15	M	positive
+490	1490	70	K	negative
+491	1491	14	K	negative
+492	1492	44	M	negative
+493	1493	14	M	negative
+494	1494	22	M	negative
+495	1495	53	M	negative
+496	1496	41	K	negative
+497	1497	60	M	negative
+498	1498	62	K	negative
+499	1499	70	K	negative
+500	1500	56	M	negative
+501	1501	58	K	negative
+502	1502	28	M	positive
+503	1503	69	M	negative
+504	1504	48	M	negative
+505	1505	34	K	negative
+506	1506	45	M	negative
+507	1507	69	K	negative
+508	1508	43	M	negative
+509	1509	41	K	negative
+510	1510	39	M	negative
+511	1511	50	M	positive
+512	1512	55	M	negative
+513	1513	41	K	negative
+514	1514	55	M	negative
+515	1515	50	K	negative
+516	1516	62	M	positive
+517	1517	11	K	negative
+518	1518	23	K	negative
+519	1519	37	K	negative
+520	1520	67	K	negative
+521	1521	11	M	negative
+522	1522	46	K	negative
+523	1523	67	K	negative
+524	1524	22	M	negative
+525	1525	53	K	negative
+526	1526	24	K	negative
+527	1527	26	K	negative
+528	1528	47	M	positive
+529	1529	28	M	negative
+530	1530	16	K	negative
+531	1531	34	K	negative
+532	1532	66	K	negative
+533	1533	40	K	negative
+534	1534	66	M	negative
+535	1535	35	K	negative
+536	1536	61	M	negative
+537	1537	54	M	negative
+538	1538	12	M	negative
+539	1539	51	K	negative
+540	1540	21	K	negative
+541	1541	68	M	positive
+542	1542	54	M	negative
+543	1543	34	K	negative
+544	1544	38	M	positive
+545	1545	66	M	negative
+546	1546	41	K	negative
+547	1547	43	M	positive
+548	1548	58	M	negative
+549	1549	51	K	negative
+550	1550	66	K	negative
+551	1551	30	M	negative
+552	1552	47	K	negative
+553	1553	50	K	positive
+554	1554	52	M	negative
+555	1555	59	M	negative
+556	1556	15	M	negative
+557	1557	58	K	negative
+558	1558	70	K	negative
+559	1559	19	K	negative
+560	1560	50	K	negative
+561	1561	68	M	negative
+562	1562	33	K	negative
+563	1563	38	K	negative
+564	1564	51	M	negative
+565	1565	67	M	negative
+566	1566	20	K	negative
+567	1567	26	M	negative
+568	1568	52	M	negative
+569	1569	61	K	positive
+570	1570	20	K	negative
+571	1571	58	M	negative
+572	1572	13	K	negative
+573	1573	70	K	negative
+574	1574	28	M	negative
+575	1575	34	M	negative
+576	1576	16	M	negative
+577	1577	24	M	negative
+578	1578	19	K	negative
+579	1579	47	K	negative
+580	1580	53	M	negative
+581	1581	65	M	negative
+582	1582	38	M	negative
+583	1583	14	M	negative
+584	1584	54	M	negative
+585	1585	58	K	negative
+586	1586	20	K	negative
+587	1587	36	M	negative
+588	1588	13	K	negative
+589	1589	51	K	negative
+590	1590	70	M	negative
+591	1591	60	M	negative
+592	1592	70	K	negative
+593	1593	40	K	negative
+594	1594	67	M	negative
+595	1595	49	M	negative
+596	1596	50	K	negative
+597	1597	26	M	negative
+598	1598	37	K	negative
+599	1599	20	M	negative
+600	1600	21	M	negative
+601	1601	46	M	negative
+602	1602	52	M	negative
+603	1603	10	K	positive
+604	1604	15	M	positive
+605	1605	35	M	negative
+606	1606	28	K	negative
+607	1607	22	K	negative
+608	1608	47	M	negative
+609	1609	24	M	positive
+610	1610	11	M	negative
+611	1611	56	M	negative
+612	1612	52	M	negative
+613	1613	39	K	positive
+614	1614	65	K	negative
+615	1615	54	K	negative
+616	1616	64	M	negative
+617	1617	10	K	positive
+618	1618	15	K	negative
+619	1619	57	M	negative
+620	1620	28	M	negative
+621	1621	66	M	negative
+622	1622	70	K	negative
+623	1623	17	K	negative
+624	1624	25	K	negative
+625	1625	37	K	negative
+626	1626	19	M	negative
+627	1627	20	M	negative
+628	1628	25	M	negative
+629	1629	54	M	negative
+630	1630	38	K	negative
+631	1631	58	K	negative
+632	1632	38	M	negative
+633	1633	20	M	negative
+634	1634	27	K	negative
+635	1635	16	K	negative
+636	1636	37	M	positive
+637	1637	28	M	negative
+638	1638	45	K	negative
+639	1639	61	K	negative
+640	1640	42	M	negative
+641	1641	66	M	negative
+642	1642	35	K	negative
+643	1643	31	K	negative
+644	1644	33	M	negative
+645	1645	25	M	negative
+646	1646	13	K	positive
+647	1647	53	M	negative
+648	1648	21	K	negative
+649	1649	23	M	negative
+650	1650	47	M	positive
+651	1651	32	M	negative
+652	1652	41	M	negative
+653	1653	13	K	negative
+654	1654	37	M	negative
+655	1655	41	M	negative
+656	1656	63	M	negative
+657	1657	14	M	negative
+658	1658	57	M	negative
+659	1659	60	K	positive
+660	1660	58	K	negative
+661	1661	22	M	negative
+662	1662	63	K	negative
+663	1663	39	K	negative
+664	1664	61	M	negative
+665	1665	27	M	negative
+666	1666	41	M	negative
+667	1667	15	K	negative
+668	1668	23	M	negative
+669	1669	30	M	negative
+670	1670	24	M	negative
+671	1671	12	K	negative
+672	1672	35	M	negative
+673	1673	33	K	negative
+674	1674	18	M	negative
+675	1675	41	M	negative
+676	1676	66	M	negative
+677	1677	25	M	negative
+678	1678	36	M	negative
+679	1679	69	K	negative
+680	1680	21	M	negative
+681	1681	35	M	negative
+682	1682	25	M	negative
+683	1683	10	M	positive
+684	1684	31	K	negative
+685	1685	18	K	negative
+686	1686	45	K	negative
+687	1687	12	K	negative
+688	1688	68	M	positive
+689	1689	63	K	negative
+690	1690	61	K	negative
+691	1691	27	M	negative
+692	1692	66	K	negative
+693	1693	67	K	negative
+694	1694	45	M	negative
+695	1695	53	K	negative
+696	1696	15	K	negative
+697	1697	42	M	negative
+698	1698	49	M	negative
+699	1699	51	K	negative
+700	1700	41	K	negative
+701	1701	22	M	negative
+702	1702	41	M	positive
+703	1703	54	M	negative
+704	1704	30	K	positive
+705	1705	54	M	negative
+706	1706	26	K	negative
+707	1707	30	M	negative
+708	1708	54	M	negative
+709	1709	19	M	negative
+710	1710	49	M	positive
+711	1711	39	K	negative
+712	1712	37	M	negative
+713	1713	37	K	negative
+714	1714	35	K	negative
+715	1715	14	M	negative
+716	1716	68	M	negative
+717	1717	15	M	negative
+718	1718	46	K	negative
+719	1719	64	M	negative
+720	1720	52	M	negative
+721	1721	53	K	negative
+722	1722	65	K	negative
+723	1723	47	M	negative
+724	1724	15	K	negative
+725	1725	41	K	negative
+726	1726	36	K	negative
+727	1727	26	M	negative
+728	1728	34	M	negative
+729	1729	59	K	negative
+730	1730	23	M	negative
+731	1731	23	K	negative
+732	1732	10	M	negative
+733	1733	31	K	negative
+734	1734	34	M	negative
+735	1735	47	M	negative
+736	1736	33	M	negative
+737	1737	19	K	negative
+738	1738	21	M	negative
+739	1739	11	M	negative
+740	1740	31	K	negative
+741	1741	19	K	negative
+742	1742	42	M	negative
+743	1743	35	M	negative
+744	1744	49	K	positive
+745	1745	42	K	negative
+746	1746	14	K	positive
+747	1747	16	K	negative
+748	1748	50	K	negative
+749	1749	34	M	negative
+750	1750	41	K	negative
+751	1751	33	K	negative
+752	1752	44	M	negative
+753	1753	57	K	negative
+754	1754	61	K	negative
+755	1755	61	M	negative
+756	1756	21	M	negative
+757	1757	12	K	negative
+758	1758	14	K	negative
+759	1759	53	K	negative
+760	1760	68	M	negative
+761	1761	13	M	negative
+762	1762	59	K	negative
+763	1763	56	K	negative
+764	1764	69	K	negative
+765	1765	48	M	negative
+766	1766	26	M	negative
+767	1767	47	M	negative
+768	1768	68	M	negative
+769	1769	20	K	negative
+770	1770	21	K	negative
+771	1771	42	M	negative
+772	1772	50	K	positive
+773	1773	40	K	positive
+774	1774	39	M	negative
+775	1775	57	K	negative
+776	1776	26	K	negative
+777	1777	52	K	negative
+778	1778	57	M	negative
+779	1779	63	K	negative
+780	1780	45	K	negative
+781	1781	52	M	negative
+782	1782	41	K	negative
+783	1783	15	M	negative
+784	1784	54	K	negative
+785	1785	41	M	positive
+786	1786	69	M	negative
+787	1787	44	K	negative
+788	1788	70	K	positive
+789	1789	15	K	negative
+790	1790	26	M	negative
+791	1791	61	M	negative
+792	1792	12	K	positive
+793	1793	39	M	positive
+794	1794	15	K	negative
+795	1795	48	M	negative
+796	1796	52	M	negative
+797	1797	70	K	negative
+798	1798	70	K	negative
+799	1799	61	M	negative
+800	1800	62	M	negative
+801	1801	18	M	negative
+802	1802	50	K	negative
+803	1803	10	K	negative
+804	1804	54	M	negative
+805	1805	62	M	negative
+806	1806	54	K	negative
+807	1807	36	M	negative
+808	1808	68	K	negative
+809	1809	29	M	negative
+810	1810	49	K	positive
+811	1811	42	M	negative
+812	1812	23	K	negative
+813	1813	25	M	negative
+814	1814	62	M	negative
+815	1815	45	K	negative
+816	1816	61	M	negative
+817	1817	21	M	negative
+818	1818	40	M	negative
+819	1819	27	K	negative
+820	1820	51	M	negative
+821	1821	39	M	negative
+822	1822	49	M	negative
+823	1823	64	M	negative
+824	1824	50	K	negative
+825	1825	61	M	negative
+826	1826	29	K	negative
+827	1827	53	K	negative
+828	1828	31	M	negative
+829	1829	42	K	negative
+830	1830	31	M	negative
+831	1831	70	K	negative
+832	1832	45	M	negative
+833	1833	30	K	negative
+834	1834	60	K	negative
+835	1835	26	K	negative
+836	1836	16	K	negative
+837	1837	47	K	negative
+838	1838	45	K	negative
+839	1839	45	M	positive
+840	1840	22	K	negative
+841	1841	19	M	negative
+842	1842	37	K	negative
+843	1843	43	M	negative
+844	1844	66	K	negative
+845	1845	45	K	negative
+846	1846	47	M	negative
+847	1847	14	K	negative
+848	1848	13	M	positive
+849	1849	63	M	negative
+850	1850	58	K	negative
+851	1851	67	M	negative
+852	1852	19	K	negative
+853	1853	39	K	negative
+854	1854	69	M	negative
+855	1855	37	K	negative
+856	1856	38	M	negative
+857	1857	52	K	negative
+858	1858	57	M	negative
+859	1859	44	K	negative
+860	1860	56	M	negative
+861	1861	57	K	negative
+862	1862	32	K	negative
+863	1863	52	K	negative
+864	1864	37	M	negative
+865	1865	50	M	negative
+866	1866	38	K	negative
+867	1867	56	M	negative
+868	1868	27	M	negative
+869	1869	11	M	negative
+870	1870	46	M	positive
+871	1871	36	K	positive
+872	1872	47	K	positive
+873	1873	21	K	positive
+874	1874	49	M	negative
+875	1875	38	K	negative
+876	1876	44	M	negative
+877	1877	14	M	negative
+878	1878	43	M	positive
+879	1879	30	K	negative
+880	1880	53	K	positive
+881	1881	63	M	negative
+882	1882	10	K	negative
+883	1883	23	M	negative
+884	1884	28	M	negative
+885	1885	34	K	negative
+886	1886	39	M	negative
+887	1887	22	K	negative
+888	1888	62	K	negative
+889	1889	30	K	negative
+890	1890	11	M	negative
+891	1891	28	K	negative
+892	1892	46	K	negative
+893	1893	32	K	negative
+894	1894	70	M	negative
+895	1895	58	K	negative
+896	1896	24	M	negative
+897	1897	21	M	negative
+898	1898	17	M	negative
+899	1899	29	K	positive
+900	1900	28	M	negative
+901	1901	27	M	negative
+902	1902	31	K	positive
+903	1903	15	K	negative
+904	1904	25	M	negative
+905	1905	44	M	negative
+906	1906	41	M	negative
+907	1907	32	K	negative
+908	1908	65	M	negative
+909	1909	13	M	negative
+910	1910	38	K	negative
+911	1911	53	M	negative
+912	1912	69	M	negative
+913	1913	61	K	negative
+914	1914	22	M	negative
+915	1915	13	K	negative
+916	1916	14	M	negative
+917	1917	27	K	positive
+918	1918	68	K	negative
+919	1919	46	K	positive
+920	1920	11	K	negative
+921	1921	69	K	negative
+922	1922	24	K	negative
+923	1923	14	M	negative
+924	1924	57	M	negative
+925	1925	30	K	negative
+926	1926	45	K	negative
+927	1927	68	K	negative
+928	1928	42	M	negative
+929	1929	20	K	negative
+930	1930	54	K	negative
+931	1931	54	M	negative
+932	1932	67	K	positive
+933	1933	18	K	negative
+934	1934	54	M	negative
+935	1935	57	M	negative
+936	1936	17	K	positive
+937	1937	55	M	negative
+938	1938	62	K	negative
+939	1939	27	M	negative
+940	1940	13	M	negative
+941	1941	69	K	negative
+942	1942	25	K	negative
+943	1943	49	K	negative
+944	1944	64	K	negative
+945	1945	60	K	negative
+946	1946	63	K	negative
+947	1947	53	M	negative
+948	1948	64	K	negative
+949	1949	26	M	positive
+950	1950	24	M	negative
+951	1951	45	M	negative
+952	1952	26	M	negative
+953	1953	18	M	negative
+954	1954	68	K	negative
+955	1955	60	M	negative
+956	1956	10	K	positive
+957	1957	23	M	positive
+958	1958	46	M	positive
+959	1959	41	M	negative
+960	1960	13	K	negative
+961	1961	39	K	negative
+962	1962	70	M	negative
+963	1963	46	M	negative
+964	1964	65	K	negative
+965	1965	34	K	negative
+966	1966	40	M	negative
+967	1967	53	K	positive
+968	1968	45	M	negative
+969	1969	18	M	negative
+970	1970	67	M	negative
+971	1971	52	M	negative
+972	1972	51	K	negative
+973	1973	32	K	negative
+974	1974	16	M	negative
+975	1975	15	M	negative
+976	1976	50	K	negative
+977	1977	17	K	negative
+978	1978	33	K	negative
+979	1979	42	K	negative
+980	1980	35	K	positive
+981	1981	15	M	negative
+982	1982	38	M	negative
+983	1983	57	M	positive
+984	1984	69	K	negative
+985	1985	37	K	negative
+986	1986	21	M	negative
+987	1987	35	M	negative
+988	1988	59	K	negative
+989	1989	64	M	negative
+990	1990	56	M	negative
+991	1991	14	M	negative
+992	1992	51	K	negative
+993	1993	59	K	negative
+994	1994	20	M	negative
+995	1995	60	K	negative
+996	1996	62	M	negative
+997	1997	24	K	negative
+998	1998	15	K	negative
+999	1999	58	M	positive
